@@ -1,4 +1,7 @@
 # Smart-Color-Puzzle-
+
+![Puzzle Thumb](https://github.com/user-attachments/assets/5ff06af3-7b88-4cec-ba3b-f983ffa802bf)
+
 Colordle Puzzle Game (Wordle with Colors). Connects to an MQTT broker to control devices through Home Assistant. 
 
 Check out the YouTube Video for more info: https://youtu.be/TdqPUnDgjCM
